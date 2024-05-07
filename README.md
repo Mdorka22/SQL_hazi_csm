@@ -1,5 +1,5 @@
 # SQL_hazi_csm
 Csapattagok:
-Kratochwill Balázs
-Mezőszentgyörgyi Dorka
+Kratochwill Balázs,
+Mezőszentgyörgyi Dorka,
 Sasvári Bálint
